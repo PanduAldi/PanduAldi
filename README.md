@@ -1,4 +1,4 @@
-<::  Halo WNI!! Sudah sudahkah kepikiran Pindah Negara ???  ::> 👋
+<::  Halo WNI!! Sudahkah Anda kepikiran Pindah Negara ???  ::> 👋
 
 <!--
 **PanduAldi/PanduAldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
